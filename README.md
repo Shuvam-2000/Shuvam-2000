@@ -2,4 +2,4 @@
 
 🌱 Learning is my superpower, and I thrive on challenges that push me to grow. As I progress on this exciting path, I'm eager to contribute to innovative projects and collaborate with like-minded developers.
 
-🚀 Explore my GitHub repositories to see my coding adventures unfold! Feel free to connect with me on LinkedIn(www.linkedin.com/in/shuvam-saha-302366283) to stay updated on my journey.
+🚀 Explore my GitHub repositories to see my coding adventures unfold! Feel free to connect with me on LinkedIn (www.linkedin.com/in/shuvam-saha-302366283) to stay updated on my journey.
