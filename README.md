@@ -1,4 +1,5 @@
 💫 About Me:
+
 I’m a Full-Stack Developer specializing in MERN and Next.js, with hands-on experience in building dynamic and scalable web applications. Proficient in React, Node.js, Express, MongoDB, TypeScript, and Redux, I am passionate about developing AI-integrated web apps and crafting products that are both impactful and scalable. Always eager to learn and grow, I am currently exploring AI and ML while continuously refining my skills. Explore my GitHub to check out my projects, and feel free to connect with me on LinkedIn to follow my journey!
 
 
